@@ -1,0 +1,9 @@
+Melhorias eSports
+
+- Melhorar a responsividade 
+- Mudanças no layout 
+- Validação do formulário utilizando useForm 
+- Adicionar Slider nos cards
+- Adicionar autententicação via discord ou twitch
+- Adicionar funcionalidade de match 
+- Disparar um e-mail sobre confirmação de duo
